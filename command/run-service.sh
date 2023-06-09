@@ -13,7 +13,7 @@ is_exist(){
   fi
 }
 
-start(){
+start(inbg){
   is_exist
   if [ $? -eq "0" ]; then
     echo "${APP_NAME} is already running. pid=${pid} ."
@@ -22,12 +22,11 @@ start(){
     cd /root/agatamind/
     rm -rf ./${APP_NAME}.jar
     cp ./${APP_NAME}/target/${APP_NAME}.jar ./${APP_NAME}.jar
-    if [ -z $3 ]; then
+    if [ inbg -eq 0 ]; then
+      java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m
+    else
       nohup java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m > /dev/null 2>&1 &
       echo "Start ${APP_NAME} service successfully.  "
-    else
-      echo "start in front $3 ???"
-      java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m
     fi
   fi
 }
@@ -55,7 +54,10 @@ if [ -z $1 ]; then
 else
   case "$2" in
   "start")
-    start
+    start(0)
+    ;;
+  "startbg")
+    start(1)
     ;;
   "stop")
     stop
