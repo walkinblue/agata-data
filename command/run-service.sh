@@ -58,11 +58,11 @@ if [ -z $1 ]; then
 else
   case "$2" in
   "start")
-    start()
+    start
     ;;
   "startbg")
-    inbg()
-    start()
+    inbg
+    start
     ;;
   "stop")
     stop
