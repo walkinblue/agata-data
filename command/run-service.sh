@@ -9,9 +9,9 @@ is_exist(){
   fi
 }
 if [ -z $1 ]; then
-  echo "please input service name."
+  echo "please input app name: ./run-service.sh [APP-NAME] [start|stop|status(default)]."
 else
-    if [ -z $2 ] || [ $2 == "start" ]; then
+    if [ $2 == "start" ]; then
         is_exist
         if [ $? -eq "0" ]; then
           echo "$1 is already running. pid=${pid} ."
@@ -24,7 +24,15 @@ else
           echo "Start $1 service successfully.  "
         fi
     else if [ $2 == "stop" ]; then
-      pid=`ps -ef|grep $1|grep -v grep|awk '{print $3}' `
-      kill -9 ${pid}
+      is_exist
+      if [ $? -eq "0" ]; then
+        echo "kill $1. pid=${pid} ."
+        kill -9 ${pid}
+      fi
+    else if [ -z $2 ] || [ $2 == "status" ]
+      is_exist
+      if [ $? -eq "0" ]; then
+        echo "$1 is running. pid=${pid} ."
+      fi
     fi
 fi
