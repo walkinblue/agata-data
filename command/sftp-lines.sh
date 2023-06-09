@@ -1,9 +1,9 @@
 #!/bin/bash
 
-outfile = /root/agatamind/agata-data/command/sft-cmd.txt
-search_dir= /root/agatamind/agata-data/source/
+outfile=/root/agatamind/agata-data/command/sft-cmd.txt
+search_dir=/root/agatamind/agata-data/source/.
 
-echo "  " >  outfile echo
+echo "  " >  $outfile echo
 for entry in "$search_dir"/*.png
 do
   echo "get /root/agatamind/agata-data/source/$entry /Users/mark/Coding/agatamind/agata-data/source/." >> $outfile
