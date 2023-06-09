@@ -1,7 +1,7 @@
 APP_ENV=online
 
 is_exist(){
-  pid=`ps -ef|grep $1|grep -v grep|awk '{print $2}' `
+  pid=`ps -ef|grep $1|grep -v grep|awk '{print $3}' `
   if [ -z "${pid}" ]; then
    return 1
   else
