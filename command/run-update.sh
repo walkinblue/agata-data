@@ -8,7 +8,7 @@ fi
 echo ""
 read -s -p "Enter Github token: " github_token
 
-lslcd cdcdecho ""
+echo ""
 echo "Start to update code .... "
 
 if [ -z $1 ] || [ $1 == "commons" ]; then
