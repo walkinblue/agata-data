@@ -1,11 +1,11 @@
 #!/bin/bash
+
 APP_ENV=online
 APP_NAME=$1
-APP_J=${1//-/?}
+APP_J=${1//-/\.}
 
 is_exist(){
-  pid=`ps -ef|grep ${APP_J}|grep -v grep|awk '{print $2}' `
-  echo pid
+  pid=`ps -ef|grep ${APP_J}.jar|grep -v grep|awk '{print $2}' `
   if [ -z "${pid}" ]; then
    return 1
   else
