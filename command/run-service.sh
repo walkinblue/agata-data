@@ -23,13 +23,15 @@ else
           nohup java -jar ./$1.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m > /dev/null 2>&1 &
           echo "Start $1 service successfully.  "
         fi
-    else if [ $2 == "stop" ]; then
+    fi
+    if [ $2 == "stop" ]; then
       is_exist
       if [ $? -eq "0" ]; then
         echo "kill $1. pid=${pid} ."
         kill -9 ${pid}
       fi
-    else if [ -z $2 ] || [ $2 == "status" ]
+    fi
+    if [ -z $2 ] || [ $2 == "status" ]
       is_exist
       if [ $? -eq "0" ]; then
         echo "$1 is running. pid=${pid} ."
