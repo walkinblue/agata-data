@@ -1,0 +1,246 @@
+[
+
+  {
+    "name": "写藏",
+    "filename": "[^.-]*-2-17.png"
+  },
+  {
+    "name": "二十万宝珠",
+    "filename": "[^.-]*-3-1.png"
+  },
+  {
+    "name": "8d黄财神头饰宝石",
+    "filename": "[^.-]*-2-16.png"
+  },
+  {
+    "name": "8b黄财神项链描金线",
+    "filename": "[^.-]*-2-15.png"
+  },
+  {
+    "name": "11金花纹",
+    "filename": "[^.-]*-2-14.png"
+  },
+  {
+    "name": "11d衣纹飘带",
+    "filename": "[^.-]*-2-13.png",
+    "colors": "丹雘 黄丹 库金"
+  },
+  {
+    "name": "11c衣纹飘带",
+    "filename": "[^.-]*-2-12.png",
+    "colors": "檀唇 弗肯红"
+  },
+  {
+    "name": "11b衣纹飘带",
+    "filename": "[^.-]*-2-11.png",
+    "colors": "檀唇 朱樱 栗壳"
+  },
+  {
+    "name": "11a4浅色飘带亮",
+    "filename": "[^.-]*-2-10.png",
+    "colors": "庭芜绿"
+  },
+  {
+    "name": "11a3衣服浅色飘",
+    "filename": "[^.-]*-2-9.png",
+    "colors": "沧浪"
+  },
+  {
+    "name": "11a2深色飘带亮面",
+    "filename": "[^.-]*-2-8.png",
+    "colors": "天水碧"
+  },
+  {
+    "name": "11a1衣服深色飘带",
+    "filename": "[^.-]*-2-7.png",
+    "colors": "青雘"
+  },
+  {
+    "name": "14座骑狮子五官",
+    "filename": "[^.-]*-2-6.png"
+  },
+  {
+    "name": "14b2狮子毛发",
+    "filename": "[^.-]*-2-5.png",
+    "colors": "人籁 沧浪"
+  },
+  {
+    "name": "14b1狮子毛浅",
+    "filename": "[^.-]*-2-4.png",
+    "colors": "绿沉"
+  },
+  {
+    "name": "14b狮子毛发",
+    "filename": "[^.-]*-2-3.png",
+    "colors": "石绿"
+  },
+  {
+    "name": "14a狮子皮肤五官",
+    "filename": "[^.-]*-2-2.png"
+  },
+  {
+    "name": "7黄财神皮肤",
+    "filename": "[^.-]*-2-1.png"
+  },
+
+  {
+    "name": "10e彩旗头",
+    "filename": "[^.-]*-1-24.png",
+    "colors": "蜜合"
+  },
+  {
+    "name": "10e2彩旗浅色",
+    "filename": "[^.-]*-1-23.png",
+    "colors": "黄河琉璃"
+  },
+  {
+    "name": "10e1彩旗颜色",
+    "filename": "[^.-]*-1-22.png",
+    "colors": "柘黄"
+  },
+  {
+    "name": "10f4彩旗渲染",
+    "filename": "[^.-]*-1-21.png",
+    "colors": "天水碧"
+  },
+  {
+    "name": "10f3彩旗底色",
+    "filename": "[^.-]*-1-20.png",
+    "colors": "沧浪"
+  },
+  {
+    "name": "10f2彩旗晕染",
+    "filename": "[^.-]*-1-19.png",
+    "colors": "天缥"
+  },
+  {
+    "name": "10f1彩旗",
+    "filename": "[^.-]*-1-18.png"
+  },
+  {
+    "name": "10a1彩旗晕染",
+    "filename": "[^.-]*-1-17.png",
+    "colors": "沧浪"
+  },
+  {
+    "name": "10彩旗底色",
+    "filename": "[^.-]*-1-16_1.png"
+  },
+  {
+    "name": "18吐宝鼠皮肤",
+    "filename": "[^.-]*-1-16_2.png"
+  },
+  {
+    "name": "10c2彩旗颜色",
+    "filename": "[^.-]*-1-15.png",
+    "colors": "赪霞"
+  },
+  {
+    "name": "10c1彩旗颜色",
+    "filename": "[^.-]*-1-14.png",
+    "colors": "鞓红"
+  },
+  {
+    "name": "10b3旗子浅色层",
+    "filename": "[^.-]*-1-13.png",
+    "colors": "人籁"
+  },
+  {
+    "name": "10b2旗子颜色",
+    "filename": "[^.-]*-1-12.png",
+    "colors": "绿沉"
+  },
+  {
+    "name": "10d旗子颜色",
+    "filename": "[^.-]*-1-11.png",
+    "colors": "墨黑"
+  },
+  {
+    "name": "4b光圈黑色阴影",
+    "filename": "[^.-]*-1-10.png"
+  },
+  {
+    "name": "3头顶小光环黑内圈",
+    "filename": "[^.-]*-1-9.png"
+  },
+  {
+    "name": "3c大光圈彩宝",
+    "filename": "[^.-]*-1-8.png"
+  },
+
+  {
+    "name": "b4小光圈图案底层",
+    "filename": "b4小光圈图案底层.png"
+  },
+  {
+    "name": "b3小光圈图案亮层",
+    "filename": "b3小光圈图案亮层.png"
+  },
+  {
+    "name": "b2小光圈图案基层",
+    "filename": "b2小光圈图案基层.png"
+  },
+  {
+    "name": "b1小光圈亮点底层",
+    "filename": "b1小光圈亮点底层.png"
+  },
+  {
+    "name": "3a小光圈光晕",
+    "filename": "[^.-]*-1-7.png"
+  },
+  {
+    "name": "3b彩色光圈",
+    "filename": "[^.-]*-1-6.png",
+    "colors": "青雘"
+  },
+  {
+    "name": "1背景金花",
+    "filename": "[^.-]*-1-5.png"
+  },
+  {
+    "name": "1c土金颜色",
+    "filename": "[^.-]*-1-4.png"
+  },
+  {
+    "name": "1a金花填充色",
+    "filename": "[^.-]*-1-3.png",
+    "colors": "群青 宝蓝"
+  },
+  {
+    "name": "1b莲花座上花",
+    "filename": "[^.-]*-1-2_1.png",
+    "colors": "苏梅 紫蒲"
+  },
+  {
+    "name": "1b莲花座",
+    "filename": "[^.-]*-1-2_2.png",
+    "colors": "莲花座蓝 延维"
+  },
+  {
+    "name": "1b1莲花座渲染",
+    "filename": "[^.-]*-1-1.png",
+    "colors": "佛头青"
+  },
+
+  {
+    "name": "a5背景亮点最上层",
+    "filename": "a5背景亮点最上层.png"
+  },
+  {
+    "name": "a4背景大亮点中层",
+    "filename": "a4背景大亮点中层.png"
+  },
+  {
+    "name": "a3背景亮点中层",
+    "filename": "a3背景亮点中层.png"
+  },  
+  {
+    "name": "a2背景亮点赤金层",
+    "filename": "a2背景亮点赤金层.png"
+  },
+  {
+    "name": "a1背景亮点底层",
+    "filename": "a1背景亮点底层.png"
+  }
+
+]

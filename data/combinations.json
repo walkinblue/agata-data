@@ -1,0 +1,1457 @@
+[
+  {
+    "name": "华姐专定",
+    "id": "9f9a2c96-1748-4e4b-91e5-e81e0babb267",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "42bd7f8c-4275-46c8-94e2-103450a234d6"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "6b7d91a6-31f3-4fc8-8d73-ac1a15097363"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "09ed1b95-f521-4520-a4a7-a1c6ab4ecf18"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "1f3e56d6-1493-45c2-9882-675e7f00fb13"
+        ]
+      }
+    ],
+    "amount": 1
+  },
+  {
+    "name": "测试测试",
+    "id": "4c43afd8-b6a1-482b-b491-b9a3f8fbe207",
+    "removed": false,
+    "minus": true,
+    "enabled": false,
+    "backgrounds": [
+      "金箔01"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "d6902a81-2432-497a-8cc1-a36467dd1003"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "b39c5b41-38be-4860-a5a3-b9dfcd92267c",
+          "8e563e48-c943-4eba-a212-18fa38411906",
+          "c3179c7f-ff11-4eb3-888a-11cb3e9e73df"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "848791b3-05c3-46fe-baec-9a24b03c41de",
+          "2d49ac9a-0442-414c-a5be-c7dcad165c3c"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "8974a1a1-eda8-4837-8230-a1a0a72fefee"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "6b7d91a6-31f3-4fc8-8d73-ac1a15097363"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "54413de6-3a6a-4f9f-a40c-9f0a4d97a202"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 0
+  },
+  {
+    "name": "星云测试",
+    "id": "0e0fff48-5bc4-425f-b4ac-18d8a2c7c64f",
+    "removed": false,
+    "minus": true,
+    "enabled": false,
+    "backgrounds": [
+      "星云5"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "25a7fa41-37b8-4f18-8a7d-afcec9c1582b"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "5f86f865-2289-48c4-ac5a-2e7106781667"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "d637cbc5-0778-4b43-aa6e-014761f37c77"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "f45ab59a-4e8f-4628-beff-7c8f59cc37a5"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "1f3e56d6-1493-45c2-9882-675e7f00fb13"
+        ]
+      }
+    ],
+    "amount": 0
+  },
+  {
+    "name": "金箔背景",
+    "id": "c62d1ca7-4036-4953-bacd-13160523c5f4",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "金箔01",
+      "金箔02",
+      "金箔03",
+      "金箔04",
+      "金箔06",
+      "金箔07",
+      "金箔08",
+      "金箔09"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "5283e240-c379-4027-b6bb-e4411300947a",
+          "25a7fa41-37b8-4f18-8a7d-afcec9c1582b"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "c69b5a16-4e10-4f5e-a590-61c22d15ea13",
+          "8afdd991-6eae-4d51-a414-6e61cf3e8e77"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "f45ab59a-4e8f-4628-beff-7c8f59cc37a5"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 0
+  },
+  {
+    "name": "黑金",
+    "id": "ae62b510-6b0f-4a42-8f5a-2888316d4046",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "1ae59947-127b-4c45-aa14-617ff0f324a2"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "848791b3-05c3-46fe-baec-9a24b03c41de",
+          "bd3c5c0c-6c02-4dc4-ba53-18fb6abad305"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "42bd7f8c-4275-46c8-94e2-103450a234d6"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "d637cbc5-0778-4b43-aa6e-014761f37c77",
+          "3fecee5e-b7b7-4662-a275-445156ab774f",
+          "6b7d91a6-31f3-4fc8-8d73-ac1a15097363"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "2f5cc4b1-cd60-43c8-ac44-21282496d589",
+          "bb4baf04-fd8c-4e23-91c5-0e2897544d66"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7ba9aafc-ddcd-4caa-9313-03d22d372a40",
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 24
+  },
+  {
+    "name": "金背景",
+    "id": "c0e9a7c3-71c0-48d9-9ff4-ada8e9221ae3",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "金箔04"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141",
+          "b39c5b41-38be-4860-a5a3-b9dfcd92267c"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "bdf14415-2e1f-4dff-92de-8a52b5ba05b8"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "c69b5a16-4e10-4f5e-a590-61c22d15ea13"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "09ed1b95-f521-4520-a4a7-a1c6ab4ecf18",
+          "f45ab59a-4e8f-4628-beff-7c8f59cc37a5"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7ba9aafc-ddcd-4caa-9313-03d22d372a40",
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 8
+  },
+  {
+    "name": "VIP定制",
+    "id": "0cbeaf4a-39d1-4e39-a700-9709957fd20c",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "42bd7f8c-4275-46c8-94e2-103450a234d6",
+          "e7760ace-7ac7-4a39-ac87-d83e0fe710ff"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "498ad140-1634-4b82-a657-b9082fcabdf3",
+          "6b7d91a6-31f3-4fc8-8d73-ac1a15097363"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "09ed1b95-f521-4520-a4a7-a1c6ab4ecf18"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "1f3e56d6-1493-45c2-9882-675e7f00fb13"
+        ]
+      }
+    ],
+    "amount": 0
+  },
+  {
+    "name": "火背景",
+    "id": "9fa018a7-fa8c-4458-9034-8822e1cad864",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "朱樱"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "c3179c7f-ff11-4eb3-888a-11cb3e9e73df"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "25a7fa41-37b8-4f18-8a7d-afcec9c1582b"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "c69b5a16-4e10-4f5e-a590-61c22d15ea13",
+          "e7760ace-7ac7-4a39-ac87-d83e0fe710ff"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f",
+          "6b7d91a6-31f3-4fc8-8d73-ac1a15097363"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "09ed1b95-f521-4520-a4a7-a1c6ab4ecf18",
+          "f45ab59a-4e8f-4628-beff-7c8f59cc37a5"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 8
+  },
+  {
+    "name": "土背景",
+    "id": "5f7da625-8be1-4578-8c41-30c36cd28279",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "栗壳"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6",
+          "cdcd7664-560f-4649-b6ef-8ff152ab8e4f"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "e7760ace-7ac7-4a39-ac87-d83e0fe710ff"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "2ba490a6-955c-4404-9084-e94574cb83cd",
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "f45ab59a-4e8f-4628-beff-7c8f59cc37a5",
+          "54413de6-3a6a-4f9f-a40c-9f0a4d97a202"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7210ca5d-1fff-4ec2-aa61-a53c12dcfb6b"
+        ]
+      }
+    ],
+    "amount": 8
+  },
+  {
+    "name": "黑金火",
+    "id": "9afaaa35-36b2-4d93-ba40-dfe5f06e56b8",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "b39c5b41-38be-4860-a5a3-b9dfcd92267c"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "5283e240-c379-4027-b6bb-e4411300947a"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "e7760ace-7ac7-4a39-ac87-d83e0fe710ff",
+          "11a09728-ba1c-4ce3-90f6-7bd52f1cdcc2"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f",
+          "6b7d91a6-31f3-4fc8-8d73-ac1a15097363",
+          "d637cbc5-0778-4b43-aa6e-014761f37c77"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52",
+          "2f5cc4b1-cd60-43c8-ac44-21282496d589"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7ba9aafc-ddcd-4caa-9313-03d22d372a40",
+          "7210ca5d-1fff-4ec2-aa61-a53c12dcfb6b"
+        ]
+      }
+    ],
+    "amount": 48
+  },
+  {
+    "name": "木背景",
+    "id": "b19d2529-9a37-45d2-890b-a8253526c40e",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "绿云"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "7b820a7a-8d1a-421a-b892-7deb350aaf01"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141",
+          "c3179c7f-ff11-4eb3-888a-11cb3e9e73df"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "848791b3-05c3-46fe-baec-9a24b03c41de"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "11a09728-ba1c-4ce3-90f6-7bd52f1cdcc2",
+          "8afdd991-6eae-4d51-a414-6e61cf3e8e77"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "498ad140-1634-4b82-a657-b9082fcabdf3"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "f45ab59a-4e8f-4628-beff-7c8f59cc37a5"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7ba9aafc-ddcd-4caa-9313-03d22d372a40"
+        ]
+      }
+    ],
+    "amount": 8
+  },
+  {
+    "name": "姜艳专定-黑蓝金",
+    "id": "ce866db1-7c21-4d46-8d17-d1fbcdf5c711",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "1e3b62b1-8bd6-4329-afbc-ef80130ae81a"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "2d49ac9a-0442-414c-a5be-c7dcad165c3c"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "c69b5a16-4e10-4f5e-a590-61c22d15ea13"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "level": "0be568cc-e7d4-4748-bb7b-0f913dac7f51",
+    "amount": 1
+  },
+  {
+    "name": "析寒专定-绿木",
+    "id": "98c2fd4a-9abb-4c36-88cd-edc1566b8ea9",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "绿云"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "d6902a81-2432-497a-8cc1-a36467dd1003"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "c3179c7f-ff11-4eb3-888a-11cb3e9e73df"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "42bd7f8c-4275-46c8-94e2-103450a234d6"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "f45ab59a-4e8f-4628-beff-7c8f59cc37a5"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "1f3e56d6-1493-45c2-9882-675e7f00fb13"
+        ]
+      }
+    ],
+    "level": "0be568cc-e7d4-4748-bb7b-0f913dac7f51",
+    "amount": 1
+  },
+  {
+    "name": "测试20230607黑金红佛衣淡青带",
+    "id": "eddd81e6-45d7-4209-b490-650767aa69fc",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1",
+          "0c26b685-01a9-4ad0-94ab-83011bc12fd1",
+          "8b9bc668-b4d8-4102-bb8a-21516ee282fa",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "4ac31d3b-ec03-4f96-b2ba-177667ec0de7",
+          "5d3d8bc6-2280-443e-8952-5c4c0efd4e43",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "cdcd7664-560f-4649-b6ef-8ff152ab8e4f"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "42bd7f8c-4275-46c8-94e2-103450a234d6"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "d637cbc5-0778-4b43-aa6e-014761f37c77"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7ba9aafc-ddcd-4caa-9313-03d22d372a40"
+        ]
+      }
+    ],
+    "amount": 15
+  },
+  {
+    "name": "测试20230607黑金紫佛衣淡青带",
+    "id": "e64951a6-54f8-468f-b4ee-a2d4db97c34b",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "5d3d8bc6-2280-443e-8952-5c4c0efd4e43",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "1ae59947-127b-4c45-aa14-617ff0f324a2",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1",
+          "1e3b62b1-8bd6-4329-afbc-ef80130ae81a",
+          "8b9bc668-b4d8-4102-bb8a-21516ee282fa",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "ac8668bf-54d7-471d-91f4-5eae6e01a73d",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "4ac31d3b-ec03-4f96-b2ba-177667ec0de7",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "4bafa9e7-4aba-470a-b9da-998c41f28f7f",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "b39c5b41-38be-4860-a5a3-b9dfcd92267c"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "42bd7f8c-4275-46c8-94e2-103450a234d6"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 18
+  },
+  {
+    "name": "测试20230607黑金棕佛衣淡青带",
+    "id": "1cd517e5-191a-43ad-914d-e64496f8bafe",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "1ae59947-127b-4c45-aa14-617ff0f324a2",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1",
+          "1e3b62b1-8bd6-4329-afbc-ef80130ae81a",
+          "7b820a7a-8d1a-421a-b892-7deb350aaf01",
+          "8b9bc668-b4d8-4102-bb8a-21516ee282fa",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "4bafa9e7-4aba-470a-b9da-998c41f28f7f",
+          "ac8668bf-54d7-471d-91f4-5eae6e01a73d",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "c3179c7f-ff11-4eb3-888a-11cb3e9e73df"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "cdcd7664-560f-4649-b6ef-8ff152ab8e4f"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "42bd7f8c-4275-46c8-94e2-103450a234d6"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "09ed1b95-f521-4520-a4a7-a1c6ab4ecf18"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 17
+  },
+  {
+    "name": "测试20230607黑金红佛衣淡紫带",
+    "id": "8da644a2-4e46-4bf0-8be3-15fc03ca8c6b",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "7b820a7a-8d1a-421a-b892-7deb350aaf01",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "4ac31d3b-ec03-4f96-b2ba-177667ec0de7",
+          "5d3d8bc6-2280-443e-8952-5c4c0efd4e43",
+          "8b9bc668-b4d8-4102-bb8a-21516ee282fa"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "cdcd7664-560f-4649-b6ef-8ff152ab8e4f"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "c69b5a16-4e10-4f5e-a590-61c22d15ea13"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "d637cbc5-0778-4b43-aa6e-014761f37c77"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7ba9aafc-ddcd-4caa-9313-03d22d372a40"
+        ]
+      }
+    ],
+    "amount": 15
+  },
+  {
+    "name": "测试20230607黑金红佛衣蓝带",
+    "id": "29747e6a-ae68-4a42-8b03-de1571b8abf9",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "4ac31d3b-ec03-4f96-b2ba-177667ec0de7",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "5d3d8bc6-2280-443e-8952-5c4c0efd4e43",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "7b820a7a-8d1a-421a-b892-7deb350aaf01",
+          "8b9bc668-b4d8-4102-bb8a-21516ee282fa",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "cdcd7664-560f-4649-b6ef-8ff152ab8e4f"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "8974a1a1-eda8-4837-8230-a1a0a72fefee"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "d637cbc5-0778-4b43-aa6e-014761f37c77"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7ba9aafc-ddcd-4caa-9313-03d22d372a40"
+        ]
+      }
+    ],
+    "amount": 14
+  },
+  {
+    "name": "测试20230607黑金红佛衣黄带",
+    "id": "7bfbf922-40c3-4f60-9c7f-8f59090fba3d",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "4ac31d3b-ec03-4f96-b2ba-177667ec0de7",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "5d3d8bc6-2280-443e-8952-5c4c0efd4e43",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "1ae59947-127b-4c45-aa14-617ff0f324a2",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1",
+          "1e3b62b1-8bd6-4329-afbc-ef80130ae81a",
+          "4bafa9e7-4aba-470a-b9da-998c41f28f7f"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "faeaecbb-b54a-4067-8402-adcc943fc141"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "cdcd7664-560f-4649-b6ef-8ff152ab8e4f"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "ac1588bc-2c11-4c8f-b332-0b971ed5ff18"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "d637cbc5-0778-4b43-aa6e-014761f37c77"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "7ba9aafc-ddcd-4caa-9313-03d22d372a40"
+        ]
+      }
+    ],
+    "amount": 16
+  },
+  {
+    "name": "测试20230607黑金紫佛衣淡紫带",
+    "id": "c45bceb8-d34b-4067-a1c5-1839009e1fab",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "4ac31d3b-ec03-4f96-b2ba-177667ec0de7",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "5d3d8bc6-2280-443e-8952-5c4c0efd4e43",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "1ae59947-127b-4c45-aa14-617ff0f324a2",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "ac8668bf-54d7-471d-91f4-5eae6e01a73d",
+          "4bafa9e7-4aba-470a-b9da-998c41f28f7f",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "8b9bc668-b4d8-4102-bb8a-21516ee282fa",
+          "1e3b62b1-8bd6-4329-afbc-ef80130ae81a",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "b39c5b41-38be-4860-a5a3-b9dfcd92267c"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "c69b5a16-4e10-4f5e-a590-61c22d15ea13"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 18
+  },
+  {
+    "name": "测试20230607黑金紫佛衣正绿带",
+    "id": "fb43a486-3276-4d9e-bd37-90a2aa736411",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "4ac31d3b-ec03-4f96-b2ba-177667ec0de7",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "5d3d8bc6-2280-443e-8952-5c4c0efd4e43",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "1ae59947-127b-4c45-aa14-617ff0f324a2",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1",
+          "1e3b62b1-8bd6-4329-afbc-ef80130ae81a",
+          "8b9bc668-b4d8-4102-bb8a-21516ee282fa",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "4bafa9e7-4aba-470a-b9da-998c41f28f7f",
+          "ac8668bf-54d7-471d-91f4-5eae6e01a73d",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "b39c5b41-38be-4860-a5a3-b9dfcd92267c"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "5f86f865-2289-48c4-ac5a-2e7106781667"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 18
+  },
+  {
+    "name": "测试20230607黑金棕佛衣淡红带",
+    "id": "6016797e-2ab8-4c5e-953e-d9d28909c2ec",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "e337d1fe-fbb1-47fd-86ac-333b62a5f6b9",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "7b820a7a-8d1a-421a-b892-7deb350aaf01"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "c3179c7f-ff11-4eb3-888a-11cb3e9e73df"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "e7760ace-7ac7-4a39-ac87-d83e0fe710ff"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 12
+  },
+  {
+    "name": " 测试20230607黑金棕佛衣紫带",
+    "id": "3476c7cf-b416-46fa-b853-1d7db8a05cfe",
+    "removed": false,
+    "minus": false,
+    "enabled": false,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "狮毛",
+        "groupIds": [
+          "9789b5e0-0ce9-4827-9a66-aa5b2476c115",
+          "9986ad44-d883-4438-98b0-a4a89a59104c",
+          "e4935e5d-2ec4-4f18-b0ca-d6477a70d7ae",
+          "d30b9cb4-b3fa-4bf6-b928-ee98f10cd21c",
+          "f4ddefcb-f9d3-4210-98c7-beab1d4c5da1",
+          "8b9bc668-b4d8-4102-bb8a-21516ee282fa",
+          "e9cb5965-17c2-49e1-a388-f0e56c7818a3",
+          "4bafa9e7-4aba-470a-b9da-998c41f28f7f",
+          "1e5db208-2b03-41c6-873c-a507377dc2c1",
+          "4ac31d3b-ec03-4f96-b2ba-177667ec0de7",
+          "0c26b685-01a9-4ad0-94ab-83011bc12fd1",
+          "31cb3390-3c76-4f45-8d2f-b3390dc1b781",
+          "5d3d8bc6-2280-443e-8952-5c4c0efd4e43",
+          "d6902a81-2432-497a-8cc1-a36467dd1003",
+          "1b69173d-b78e-41ee-9a91-7466ed6ad3e2"
+        ]
+      },
+      {
+        "name": "佛衣",
+        "groupIds": [
+          "c3179c7f-ff11-4eb3-888a-11cb3e9e73df"
+        ]
+      },
+      {
+        "name": "彩旗",
+        "groupIds": [
+          "54c75ad6-3b69-4569-a94d-0213c90a92f6"
+        ]
+      },
+      {
+        "name": "飘带",
+        "groupIds": [
+          "e1770005-9ccd-4540-8ab5-8bafa82c7eaa"
+        ]
+      },
+      {
+        "name": "金线",
+        "groupIds": [
+          "3fecee5e-b7b7-4662-a275-445156ab774f"
+        ]
+      },
+      {
+        "name": "莲花座",
+        "groupIds": [
+          "6baf9e42-092a-46a7-bf72-c225ccf90a52"
+        ]
+      },
+      {
+        "name": "光圈",
+        "groupIds": [
+          "f0548ca8-3514-496b-8022-da5b933874d1"
+        ]
+      }
+    ],
+    "amount": 15
+  }
+]

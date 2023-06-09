@@ -1,0 +1,85 @@
+[
+  {
+    "key": "佛衣",
+    "name": "原佛衣",
+    "enable": false,
+    "changes": [
+      {"layer": "11b衣纹飘带", "source": "檀唇"},
+      {"layer": "11b衣纹飘带", "source": "朱樱"},
+      {"layer": "11b衣纹飘带", "source": "栗壳"},
+      {"layer": "11c衣纹飘带", "source": "檀唇"},
+      {"layer": "11c衣纹飘带", "source": "弗肯红"},
+      {"layer": "11d衣纹飘带", "source": "丹雘"},
+      {"layer": "11d衣纹飘带", "source": "黄丹"},
+      {"layer": "11d衣纹飘带", "source": "库金"}
+    ]
+  },
+  {
+    "key": "飘带",
+    "name": "原飘带",
+    "enable": false,
+    "changes": [
+      {"layer": "11a4浅色飘带亮", "source": "庭芜绿"},
+      {"layer": "11a3衣服浅色飘", "source": "沧浪"},
+      {"layer": "11a2深色飘带亮面", "source": "天水碧"},
+      {"layer": "11a1衣服深色飘带", "source": "青雘"},
+      {"layer": "10f4彩旗渲染", "source": "天水碧"},
+      {"layer": "10f3彩旗底色", "source": "沧浪"},
+      {"layer": "10f2彩旗晕染", "source": "天缥"},
+      {"layer": "10a1彩旗晕染", "source": "沧浪"}
+    ]
+  },
+  {
+    "key": "金线",
+    "name": "原花云",
+    "enable": false,
+    "changes": [
+      {"layer": "1b莲花座上花", "source": "紫蒲"},
+      {"layer": "1b莲花座上花", "source": "苏梅"},
+      {"layer": "1a金花填充色", "source": "群青"},
+      {"layer": "1a金花填充色", "source": "宝蓝"}
+    ]
+  },
+  {
+    "key": "彩旗",
+    "name": "原旗子",
+    "enable": false,
+    "changes": [
+      {"layer": "10b3旗子浅色层", "source": "人籁"},
+      {"layer": "10b2旗子颜色", "source": "绿沉"},
+      {"layer": "10c2彩旗颜色", "source": "赪霞"},
+      {"layer": "10c1彩旗颜色", "source": "鞓红"},
+      {"layer": "10e2彩旗浅色", "source": "黄河琉璃"},
+      {"layer": "10e1彩旗颜色", "source": "柘黄"}
+    ]
+  },
+  {
+    "key": "狮毛",
+    "name": "原狮毛",
+    "enable": false,
+    "changes": [
+      {"layer": "14b2狮子毛发", "source": "人籁"},
+      {"layer": "14b2狮子毛发", "source": "沧浪"},
+      {"layer": "14b1狮子毛浅", "source": "绿沉"},
+      {"layer": "14b狮子毛发", "source": "石绿"}
+    ]
+  },
+  {
+    "key": "光圈",
+    "name": "原光圈",
+    "enable": false,
+    "changes": [
+      {"layer": "3b彩色光圈", "source": "青雘"},
+      {"layer": "3a小光圈光晕"}
+    ]
+  },
+  {
+    "key": "莲花座",
+    "name": "原莲花座",
+    "enable": false,
+    "changes": [
+      {"layer": "1b莲花座"},
+      {"layer": "1b1莲花座渲染"}
+    ]
+  }
+]

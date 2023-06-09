@@ -1,0 +1,15 @@
+[
+    {
+        "name": "USD",
+        "code": "$"
+    },
+    {
+        "name": "RMB",
+        "code": "¥"
+    },
+    {
+        "name": "ETH",
+        "code": "eth"
+    }
+
+]

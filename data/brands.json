@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "通用",
+        "code" : "common",
+        "layer" : "BLANK.png"
+    },
+    {
+        "name" : "玄喜匯",
+        "code" : "xuanxihui",
+        "layer" : "logo-玄喜汇.png"
+    },
+    {
+        "name" : "积分商城",
+        "code" : "bankshop",
+        "layer" : "BLANK.png"
+    }
+]
