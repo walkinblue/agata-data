@@ -31,7 +31,7 @@ else
           kill -9 ${pid}
         fi
       else
-        if [ -z $2 ] || [ $2 == "status" ]
+        if [ -z $2 ] || [ $2 == "status" ]; then
           is_exist
           if [ $? -eq "0" ]; then
             echo "$1 is running. pid=${pid} ."
