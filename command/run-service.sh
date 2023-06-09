@@ -55,7 +55,7 @@ else
     status
     ;;
   *)
-    usage
+    status
     ;;
   esac
 fi
