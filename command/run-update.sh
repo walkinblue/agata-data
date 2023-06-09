@@ -66,6 +66,9 @@ if [ -z $1 ] || [ $1 == "agata-shop-service" ]; then
   cd /root/agatamind/agata-shop-service
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-shop-service.git
   echo "Updated agata-shop-service code successfully.  "
+    rm -f /root/agatamind/run-shop.sh
+    cp -f /root/agatamind/agata-shop-service/run.sh /root/agatamind/run-shop.sh
+    chmod u+x /root/agatamind/run-shop.sh
 fi 
 
 if [ -z $1 ] || [ $1 == "agata-workshop" ]; then
@@ -85,6 +88,11 @@ if [ -z $1 ] || [ $1 == "agata-workshop-service" ]; then
   cd /root/agatamind/agata-workshop-service
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-workshop-service.git
   echo "Updated agata-workshop-service code successfully.  "
+
+  rm -f /root/agatamind/run-workshop.sh
+  cp -f /root/agatamind/agata-workshop-service/run.sh /root/agatamind/run-workshop.sh
+  chmod u+x /root/agatamind/run-workshop.sh
+
 fi 
 
 if [ -z $1 ] || [ $1 == "agata-wuxing" ]; then
@@ -97,6 +105,14 @@ if [ -z $1 ] || [ $1 == "agata-data" ]; then
   cd /root/agatamind/agata-data
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-data.git
   echo "Updated agata-data code successfully.  "
+
+    rm -f /root/agatamind/run-update.sh
+    cp -f /root/agatamind/agata-data/command/run-update.sh /root/agatamind/run-update.sh
+    chmod u+x /root/agatamind/run-update.sh
+
+    rm -f /root/agatamind/run-upload.sh
+    cp -f /root/agatamind/agata-data/command/run-update.sh /root/agatamind/run-upload.sh
+    chmod u+x /root/agatamind/run-upload.sh
 fi 
 
 
