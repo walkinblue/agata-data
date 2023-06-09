@@ -41,4 +41,9 @@ cd /root/agatamind/agata-wuxing
 git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-wuxing.git
 echo "Updated agata-wuxing code successfully.  "
 
+cd /root/agatamind/agata-data
+git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-data.git
+echo "Updated agata-data code successfully.  "
+
+
 cd /root/agatamind
