@@ -1,5 +1,5 @@
 #!/bin/bash
-IN_BG=0
+WITH_LOG=0
 APP_ENV=online
 APP_NAME=$1
 APP_J=${1//-/\.}
@@ -13,8 +13,8 @@ is_exist(){
   fi
 }
 
-inbg(){
-  IN_BG=1
+withlog(){
+  WITH_LOG=1
 }
 
 start(){
@@ -26,7 +26,7 @@ start(){
     cd /root/agatamind/
     rm -rf ./${APP_NAME}.jar
     cp ./${APP_NAME}/target/${APP_NAME}.jar ./${APP_NAME}.jar
-    if [ ${IN_BG} -eq 0 ]; then
+    if [ ${WITH_LOG} -eq 0 ]; then
       java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m
     else
       nohup java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m > /dev/null 2>&1 &
@@ -54,14 +54,14 @@ status(){
 }
 
 if [ -z $1 ]; then
-  echo "please input app name: ./run-service.sh [APP-NAME] [start|stop|status(default)]."
+  echo "please input app name: ./run-service.sh [APP-NAME] [start|startlog|stop|status(default)]."
 else
   case "$2" in
   "start")
     start
     ;;
-  "startbg")
-    inbg
+  "startlog")
+    withlog
     start
     ;;
   "stop")
