@@ -30,13 +30,30 @@ if [ -z $1 ] || [ $1 == "services" ]; then
   echo "Compile and Install services code successfully.  "
 fi
 
-if [ -z $1 ] || [ $1 == "agata-common" ]; then
-  cd /root/agatamind/agata-common
-  git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-common.git
-  echo "Updated agata-common code successfully.  "
-  mvn compile -DskipTests
-  mvn install -DskipTests
-  echo "Compile and Install agata-common code successfully.  "
+#if [ -z $1 ] || [ $1 == "agata-common" ]; then
+#  cd /root/agatamind/agata-common
+#  git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-common.git
+#  echo "Updated agata-common code successfully.  "
+#  mvn compile -DskipTests
+#  mvn install -DskipTests
+#  echo "Compile and Install agata-common code successfully.  "
+#fi
+if [ -z $1 ] || [ $1 == "agata-data" ]; then
+  cd /root/agatamind/agata-data
+  git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-data.git
+  echo "Updated agata-data code successfully.  "
+
+    rm -f /root/agatamind/run-update.sh
+    cp -f /root/agatamind/agata-data/command/run-update.sh /root/agatamind/run-update.sh
+    chmod u+x /root/agatamind/run-update.sh
+
+    rm -f /root/agatamind/run-upload.sh
+    cp -f /root/agatamind/agata-data/command/run-update.sh /root/agatamind/run-upload.sh
+    chmod u+x /root/agatamind/run-upload.sh
+
+    rm -f /root/agatamind/run-service.sh
+    cp -f /root/agatamind/agata-data/command/run-service.sh /root/agatamind/run-service.sh
+    chmod u+x /root/agatamind/run-service.sh
 fi
 
 if [ -z $1 ] || [ $1 == "agata-common-service" ]; then
@@ -109,19 +126,6 @@ if [ -z $1 ] || [ $1 == "agata-wuxing" ]; then
   echo "Updated agata-wuxing code successfully.  "
 fi 
 
-if [ -z $1 ] || [ $1 == "agata-data" ]; then
-  cd /root/agatamind/agata-data
-  git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-data.git
-  echo "Updated agata-data code successfully.  "
-
-    rm -f /root/agatamind/run-update.sh
-    cp -f /root/agatamind/agata-data/command/run-update.sh /root/agatamind/run-update.sh
-    chmod u+x /root/agatamind/run-update.sh
-
-    rm -f /root/agatamind/run-upload.sh
-    cp -f /root/agatamind/agata-data/command/run-update.sh /root/agatamind/run-upload.sh
-    chmod u+x /root/agatamind/run-upload.sh
-fi 
 
 
 cd /root/agatamind
