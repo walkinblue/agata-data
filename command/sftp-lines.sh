@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /root/agatamind/data/source
+cd /root/agatamind/agata-data/source
 
 search_dir=.
 for entry in "$search_dir"/*.png
