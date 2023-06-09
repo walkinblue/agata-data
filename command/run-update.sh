@@ -6,7 +6,7 @@ read -s -p "Enter Github token: " github_token
 
 echo "Start to update code .... "
 
-if [ $1 eq "commons" || -z $1]; then
+if [ $1 eq "commons" ] || [ -z $1]; then
   cd /root/agatamind/commons
   git pull https://walkinblue@github.com/terran4j/commons.git
   echo "Updated commons code successfully.  "
@@ -61,7 +61,7 @@ if [ $1 eq "agata-wuxing" || -z $1]; then
   echo "Updated agata-wuxing code successfully.  "
 fi 
 
-if [ $1 eq "agata-data" || -z $1]; then
+if [ $1 eq "agata-data" ] || [ -z '$1']; then
   cd /root/agatamind/agata-data
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-data.git
   echo "Updated agata-data code successfully.  "
