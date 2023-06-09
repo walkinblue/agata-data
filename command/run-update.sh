@@ -48,6 +48,12 @@ if [ -z $1 ] || [ $1 == "agata-workshop" ]; then
   cd /root/agatamind/agata-workshop
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-workshop.git
   echo "Updated agata-workshop code successfully.  "
+
+  cd /usr/share/nginx/shop
+  rm -rf /usr/share/nginx/shop/*
+
+
+
 fi 
 
 if [ -z $1 ] || [ $1 == "agata-workshop-service" ]; then

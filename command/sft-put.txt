@@ -1,2 +1,3 @@
 put /Users/mark/Coding/agatamind/agata-shop-service/src/main/resources/application.yml  /root/agatamind/agata-shop-service/src/main/resources/.
 put /Users/mark/Coding/agatamind/agata-workshop-service/src/main/resources/application.yml  /root/agatamind/agata-workshop-service/src/main/resources/.
+put /Users/mark/Coding/agatamind/agata-data/source/saledprint.png  /root/agatamind/agata-data/source/.
