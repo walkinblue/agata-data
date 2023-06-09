@@ -22,11 +22,13 @@ start(){
     cd /root/agatamind/
     rm -rf ./${APP_NAME}.jar
     cp ./${APP_NAME}/target/${APP_NAME}.jar ./${APP_NAME}.jar
-    if [ -z $3 ] && [ $3 == "console" ]; then
-      nohup java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m
-    else
+    if [ -z $3 ]; then
       nohup java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m > /dev/null 2>&1 &
       echo "Start ${APP_NAME} service successfully.  "
+    else
+      if [ $3 == "console" ]; then
+        nohup java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m
+      fi
     fi
   fi
 }
