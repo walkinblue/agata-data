@@ -54,6 +54,10 @@ if [ -z $1 ] || [ $1 == "agata-data" ]; then
     rm -f /root/agatamind/run-service.sh
     cp -f /root/agatamind/agata-data/command/run-service.sh /root/agatamind/run-service.sh
     chmod u+x /root/agatamind/run-service.sh
+
+    rm -f /root/agatamind/run-web.sh
+    cp -f /root/agatamind/agata-data/command/run-web.sh /root/agatamind/run-web.sh
+    chmod u+x /root/agatamind/run-web.sh
 fi
 
 if [ -z $1 ] || [ $1 == "agata-common-service" ]; then
