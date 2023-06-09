@@ -1,7 +1,10 @@
 #!/bin/bash
 echo "./run-update.sh [''|'module-name']"
 
-read -s -p "Enter Gitee token: " gitee_token
+if [ -z $1 ] || [ $1 == "services" ]; then
+  read -s -p "Enter Gitee token: " gitee_token
+fi
+
 echo ""
 read -s -p "Enter Github token: " github_token
 
@@ -11,6 +14,9 @@ if [ -z $1 ] || [ $1 == "commons" ]; then
   cd /root/agatamind/commons
   git pull https://walkinblue@github.com/terran4j/commons.git
   echo "Updated commons code successfully.  "
+  mvn compile -DskipTests
+  mvn install -DskipTests
+  echo "Compile and Install commons code successfully.  "
 fi
 
 
@@ -18,24 +24,41 @@ if [ -z $1 ] || [ $1 == "services" ]; then
   cd /root/agatamind/services
   git pull https://zouma_green_station:${gitee_token}@gitee.com/terran4j-public/services.git
   echo "Updated services code successfully.  "
-fi 
+  mvn compile -DskipTests
+  mvn install -DskipTests
+  echo "Compile and Install services code successfully.  "
+fi
 
 if [ -z $1 ] || [ $1 == "agata-common" ]; then
   cd /root/agatamind/agata-common
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-common.git
   echo "Updated agata-common code successfully.  "
-fi 
+  mvn compile -DskipTests
+  mvn install -DskipTests
+  echo "Compile and Install agata-common code successfully.  "
+fi
 
 if [ -z $1 ] || [ $1 == "agata-common-service" ]; then
   cd /root/agatamind/agata-common-service
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-common-service.git
   echo "Updated agata-common-service code successfully.  "
+    mvn compile -DskipTests
+    mvn install -DskipTests
+    echo "Compile and Install agata-common-service code successfully.  "
 fi 
 
 if [ -z $1 ] || [ $1 == "agata-shop" ]; then
   cd /root/agatamind/agata-shop
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-shop.git
   echo "Updated agata-shop code successfully.  "
+
+    rm -f /usr/share/nginx/shop/assets/*.*
+    rmdir /usr/share/nginx/shop/assets
+    rm -f /usr/share/nginx/shop/*.*
+    cp -fr /root/agatamind/agata-shop/dist/* /usr/share/nginx/shop/.
+
+    echo "Published dist to shop in web. "
+
 fi 
 
 if [ -z $1 ] || [ $1 == "agata-shop-service" ]; then
@@ -49,10 +72,11 @@ if [ -z $1 ] || [ $1 == "agata-workshop" ]; then
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-workshop.git
   echo "Updated agata-workshop code successfully.  "
 
-  cd /usr/share/nginx/shop
-  rm -rf /usr/share/nginx/shop/*
-
-
+  rm -f /usr/share/nginx/workshop/assets/*.*
+  rmdir /usr/share/nginx/workshop/assets
+  rm -f /usr/share/nginx/workshop/*.*
+  cp -fr /root/agatamind/agata-workshop/dist/* /usr/share/nginx/workshop/.
+  echo "Published dist to workshop in web. "
 
 fi 
 
