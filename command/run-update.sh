@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "./run-update.sh [all|'module-name']"
+echo "./run-update.sh [''|'module-name']"
 
 read -s -p "Enter Gitee token: " gitee_token
 echo ""
