@@ -1,5 +1,5 @@
 #!/bin/bash
-
+IN_BG=0
 APP_ENV=online
 APP_NAME=$1
 APP_J=${1//-/\.}
@@ -13,6 +13,10 @@ is_exist(){
   fi
 }
 
+inbg(){
+  IN_BG=1
+}
+
 start(){
   is_exist
   if [ $? -eq "0" ]; then
@@ -22,7 +26,7 @@ start(){
     cd /root/agatamind/
     rm -rf ./${APP_NAME}.jar
     cp ./${APP_NAME}/target/${APP_NAME}.jar ./${APP_NAME}.jar
-    if [ ${inbg} -eq 0 ]; then
+    if [ ${IN_BG} -eq 0 ]; then
       java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m
     else
       nohup java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m > /dev/null 2>&1 &
@@ -54,11 +58,10 @@ if [ -z $1 ]; then
 else
   case "$2" in
   "start")
-    inbg=0
     start()
     ;;
   "startbg")
-    inbg=1
+    inbg()
     start()
     ;;
   "stop")
