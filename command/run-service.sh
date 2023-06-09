@@ -1,8 +1,8 @@
 APP_ENV=online
+APP_NAME=$1
 
 is_exist(){
-  echo `ps -ef|grep $1 |grep -v grep|awk '{print $3}' `
-  pid=`ps -ef|grep $1 |grep -v grep|awk '{print $3}' `
+  pid=`ps -ef|grep ${APP_NAME}|grep -v grep|awk '{print $3}' `
   if [ -z "${pid}" ]; then
    return 1
   else
@@ -13,14 +13,14 @@ is_exist(){
 start(){
   is_exist
   if [ $? -eq "0" ]; then
-    echo "$1 is already running. pid=${pid} ."
+    echo "${APP_NAME} is already running. pid=${pid} ."
   else
-    echo "Start the service  .... $1"
+    echo "Start the service  .... ${APP_NAME}"
     cd /root/agatamind/
-    rm -rf ./$1.jar
-    cp ./$1/target/$1.jar ./$1.jar
-    nohup java -jar ./$1.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m > /dev/null 2>&1 &
-    echo "Start $1 service successfully.  "
+    rm -rf ./${APP_NAME}.jar
+    cp ./${APP_NAME}/target/${APP_NAME}.jar ./${APP_NAME}.jar
+    nohup java -jar ./${APP_NAME}.jar --spring.profiles.active=${APP_ENV} -Xms256m -Xmx1024m > /dev/null 2>&1 &
+    echo "Start ${APP_NAME} service successfully.  "
   fi
 }
 
@@ -29,16 +29,16 @@ stop(){
   if [ $? -eq "0" ]; then
     kill -9 ${pid}
   else
-    echo "$1 is not running"
+    echo "${APP_NAME} is not running"
   fi
 }
 
 status(){
   is_exist
   if [ $? -eq "0" ]; then
-    echo "$1 is running. Pid is ${pid}"
+    echo "${APP_NAME} is running. Pid is ${pid}"
   else
-    echo "$1 is NOT running."
+    echo "${APP_NAME} is NOT running."
   fi
 }
 
