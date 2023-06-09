@@ -69,6 +69,10 @@ if [ -z $1 ] || [ $1 == "agata-shop-service" ]; then
     rm -f /root/agatamind/run-shop.sh
     cp -f /root/agatamind/agata-shop-service/run.sh /root/agatamind/run-shop.sh
     chmod u+x /root/agatamind/run-shop.sh
+
+      mvn clean package -U -DskipTests
+      echo "Build agata-shop-service code successfully.  "
+
 fi 
 
 if [ -z $1 ] || [ $1 == "agata-workshop" ]; then
@@ -89,9 +93,13 @@ if [ -z $1 ] || [ $1 == "agata-workshop-service" ]; then
   git pull https://walkinblue:${github_token}@github.com/walkinblue/agata-workshop-service.git
   echo "Updated agata-workshop-service code successfully.  "
 
+  mvn clean package -U -DskipTests
+  echo "Build agata-workshop-service code successfully.  "
+
   rm -f /root/agatamind/run-workshop.sh
   cp -f /root/agatamind/agata-workshop-service/run.sh /root/agatamind/run-workshop.sh
   chmod u+x /root/agatamind/run-workshop.sh
+
 
 fi 
 
