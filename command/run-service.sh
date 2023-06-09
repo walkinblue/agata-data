@@ -3,7 +3,7 @@ APP_NAME=$1
 
 is_exist(){
   APP_NAME_J=${APP_NAME}|tr - ?
-  pid=`ps -ef|grep ${APP_NAME_J}|grep -v grep|awk '{print $3}' `
+  pid=`ps -ef|grep ${APP_NAME_J}|grep -v grep|awk '{print $2}' `
   if [ -z "${pid}" ]; then
    return 1
   else
