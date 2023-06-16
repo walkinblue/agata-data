@@ -1,0 +1,24 @@
+[
+  {
+    "name": "黄财神",
+    "code": "dzambhala",
+    "changegroups": "changegroups.json",
+    "combinations": "combinations.json",
+    "layers": "layers.json",
+    "layersources": "layersources.json",
+    "levels": "levels.json",
+    "upgrade": "upgrade.json",
+    "changekeys": "changekeys.json"
+  },
+  {
+    "name": "六字真言",
+    "code": "ommanipadmehum",
+    "changegroups": "changegroups.json",
+    "combinations": "combinations.json",
+    "layers": "layers.json",
+    "layersources": "layersources.json",
+    "levels": "levels.json",
+    "upgrade": "upgrade.json",
+    "changekeys": "changekeys.json"
+  }
+]
