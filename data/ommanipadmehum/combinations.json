@@ -1,0 +1,40 @@
+[
+  {
+    "name": "基础组合",
+    "id": "e0dcb820-3f74-44fe-a70a-87609ecc4126",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "墨黑"
+    ],
+    "groupselects": [
+      {
+        "name": "文字",
+        "groupIds": [
+          "0b7f6a67-df6d-4e93-bc9c-719955c3ae7b"
+        ]
+      }
+    ],
+    "amount": 1
+  },
+  {
+    "name": "基础组合 2",
+    "id": "2068e372-ce61-4440-95e3-61933d08040b",
+    "removed": false,
+    "minus": false,
+    "enabled": true,
+    "backgrounds": [
+      "蓝采和"
+    ],
+    "groupselects": [
+      {
+        "name": "文字",
+        "groupIds": [
+          "0b7f6a67-df6d-4e93-bc9c-719955c3ae7b"
+        ]
+      }
+    ],
+    "amount": 1
+  }
+]

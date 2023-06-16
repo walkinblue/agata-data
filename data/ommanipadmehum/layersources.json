@@ -1,0 +1,12 @@
+[
+  {
+    "key": "文字",
+    "name": "文字",
+    "enable": false,
+    "changes": [
+      {"layer": "a1底层亮点"},
+      {"layer": "a2小颗粒层"},
+      {"layer": "a3大颗粒层"}
+    ]
+  }
+]

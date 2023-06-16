@@ -1,0 +1,14 @@
+[
+  {
+    "names" : ["a2小颗粒层"],
+    "step" : 300,
+    "min" : 5,
+    "split": false
+  },
+  {
+    "names" : ["a3大颗粒层"],
+    "step" : 300,
+    "min" : 2,
+    "split": true
+  }
+]

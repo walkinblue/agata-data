@@ -1,0 +1,45 @@
+[
+  {
+    "id": "0b7f6a67-df6d-4e93-bc9c-719955c3ae7b",
+    "name": "原文字",
+    "key": "文字",
+    "enabled": true,
+    "changes": [
+      {
+        "layer": "a1底层亮点",
+        "alphaOffset": 0,
+        "range": 0,
+        "skipped": false
+      },
+      {
+        "layer": "a2小颗粒层",
+        "alphaOffset": 0,
+        "range": 0,
+        "skipped": false
+      },
+      {
+        "layer": "a3大颗粒层",
+        "alphaOffset": 0,
+        "range": 0,
+        "skipped": false
+      }
+    ],
+    "images": [
+      {
+        "name": "a1底层亮点",
+        "filename": "原文字-a1底层亮点-1686872932409.png",
+        "skipped": false
+      },
+      {
+        "name": "a2小颗粒层",
+        "filename": "原文字-a2小颗粒层-1686872933419.png",
+        "skipped": false
+      },
+      {
+        "name": "a3大颗粒层",
+        "filename": "原文字-a3大颗粒层-1686872934097.png",
+        "skipped": false
+      }
+    ]
+  }
+]
