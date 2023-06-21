@@ -7,7 +7,7 @@
     "layers": "layers.json",
     "layersources": "layersources.json",
     "levels": "levels.json",
-    "upgrade": "upgrade.json",
+    "upgrades": "upgrades.json",
     "changekeys": "changekeys.json"
   },
   {
@@ -18,7 +18,7 @@
     "layers": "layers.json",
     "layersources": "layersources.json",
     "levels": "levels.json",
-    "upgrade": "upgrade.json",
+    "upgrades": "upgrades.json",
     "changekeys": "changekeys.json"
   }
 ]

@@ -81,7 +81,7 @@
   },
   {
     "id": "fc4556c8-32ab-4338-b20f-3170e1651449",
-    "code": "ommpmh",
+    "code": "basic-ommani",
     "name": "六字真言基础版",
     "enabled": "false",
     "description": "基础版",
@@ -98,5 +98,24 @@
     "price500up": 100,
     "needDelivery": false,
     "limit": 100000
+  },
+  {
+    "id": "336dabd2-8431-4d26-ba7b-9a7740072d92",
+    "code": " basic-dz",
+    "name": "国内基础版",
+    "enabled": "false",
+    "description": " 手绘数字艺术品 · 定制个人五行喜用色 · 念咒手动计数功能",
+    "levelId": "e8231727-f62a-4f3e-b141-9fb0314d2649",
+    "brandCode": "common",
+    "productType": "dzambhala",
+    "regionCode": "CHINA",
+    "currencyCode": "¥",
+    "listprice": 100,
+    "price": 100,
+    "price1to99": 100,
+    "price100to499": 100,
+    "price500up": 100,
+    "needDelivery": false,
+    "limit": 20000
   }
 ]

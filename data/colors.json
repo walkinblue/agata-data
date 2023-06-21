@@ -11,7 +11,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#dfc266",
+    "asBackground": false
   },
   {
     "name": "线金",
@@ -25,7 +28,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#d0c793",
+    "asBackground": false
   },
   {
     "name": "金色",
@@ -39,7 +45,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#e6b422",
+    "asBackground": false
   },
   {
     "name": "库金",
@@ -53,7 +62,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#e18a3b",
+    "asBackground": false
   },
   {
     "name": "精白",
@@ -67,22 +79,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
-  },
-  {
-    "name": "test",
-    "red": 0,
-    "blue": 0,
-    "green": 0,
-    "file": "uploads-18c243ce-7de8-4dd0-b83a-8a3411838feb.png",
-    "alpha": 0,
-    "element": "金",
-    "desc": "色",
-    "stable": false,
-    "bright": "浅",
-    "posSize": 1.0,
-    "pospre": 0.0,
-    "removed": true
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#ffffff",
+    "asBackground": false
   },
   {
     "name": "金箔01",
@@ -97,7 +97,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "金箔02",
@@ -112,7 +115,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "金箔03",
@@ -127,7 +133,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "金箔04",
@@ -142,7 +151,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "金箔06",
@@ -157,7 +169,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "金箔07",
@@ -172,7 +187,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "金箔08",
@@ -187,7 +205,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "金箔09",
@@ -202,7 +223,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "筠雾",
@@ -216,7 +240,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#d5d1ae",
+    "asBackground": false
   },
   {
     "name": "草白",
@@ -230,7 +257,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#bfc1a9",
+    "asBackground": false
   },
   {
     "name": "黄粱",
@@ -244,7 +274,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#c4b798",
+    "asBackground": false
   },
   {
     "name": "沉香",
@@ -258,7 +291,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#99806c",
+    "asBackground": true
   },
   {
     "name": "繱犗",
@@ -272,7 +308,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#88bfb8",
+    "asBackground": false
   },
   {
     "name": "欧碧",
@@ -286,7 +325,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#c0d695",
+    "asBackground": false
   },
   {
     "name": "人籁",
@@ -300,7 +342,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#9ebc19",
+    "asBackground": true
   },
   {
     "name": "水龙吟",
@@ -314,7 +359,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#84a729",
+    "asBackground": true
   },
   {
     "name": "庭芜绿",
@@ -328,7 +376,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#68945c",
+    "asBackground": false
   },
   {
     "name": "莓莓",
@@ -342,7 +393,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#4f794a",
+    "asBackground": true
   },
   {
     "name": "翠微",
@@ -356,7 +410,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#4c8045",
+    "asBackground": true
   },
   {
     "name": "绿沉",
@@ -370,7 +427,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#1c8020",
+    "asBackground": true
   },
   {
     "name": "官绿",
@@ -384,7 +444,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#2a6e3f",
+    "asBackground": true
   },
   {
     "name": "绿云",
@@ -398,7 +461,10 @@
     "bright": "黑",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#13321c",
+    "asBackground": true
   },
   {
     "name": "树木2",
@@ -413,7 +479,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "树木3",
@@ -428,7 +497,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "树木4",
@@ -443,7 +515,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "沧浪",
@@ -457,7 +532,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 1.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#b1d5c8",
+    "asBackground": false
   },
   {
     "name": "铜青",
@@ -471,7 +549,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 2.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#3d8e86",
+    "asBackground": false
   },
   {
     "name": "青雘",
@@ -485,7 +566,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 1.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#007175",
+    "asBackground": true
   },
   {
     "name": "石绿",
@@ -499,7 +583,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#206864",
+    "asBackground": true
   },
   {
     "name": "树木",
@@ -514,7 +601,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "树林1",
@@ -529,7 +619,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": true
+    "removed": true,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "天缥",
@@ -543,7 +636,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#d2eaea",
+    "asBackground": false
   },
   {
     "name": "西子",
@@ -557,7 +653,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#87c0ca",
+    "asBackground": false
   },
   {
     "name": "天水碧",
@@ -571,7 +670,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#5aa4ae",
+    "asBackground": false
   },
   {
     "name": "孔雀蓝",
@@ -585,7 +687,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#4994c4",
+    "asBackground": true
   },
   {
     "name": "青冥",
@@ -599,7 +704,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#3271ae",
+    "asBackground": true
   },
   {
     "name": "柔蓝",
@@ -613,7 +721,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#106898",
+    "asBackground": true
   },
   {
     "name": "蓝采和",
@@ -627,7 +738,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#06436f",
+    "asBackground": true
   },
   {
     "name": "墨黑",
@@ -641,7 +755,10 @@
     "bright": "黑",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "碧落",
@@ -655,7 +772,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#aed0ee",
+    "asBackground": false
   },
   {
     "name": "窃蓝",
@@ -669,7 +789,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#88abda",
+    "asBackground": false
   },
   {
     "name": "东方既白",
@@ -683,7 +806,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#8ba3c7",
+    "asBackground": false
   },
   {
     "name": "监徳",
@@ -697,7 +823,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#6f94cd",
+    "asBackground": false
   },
   {
     "name": "宝蓝",
@@ -711,7 +840,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 1.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#4b5cc4",
+    "asBackground": true
   },
   {
     "name": "群青",
@@ -725,7 +857,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 1.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#2e59a7",
+    "asBackground": true
   },
   {
     "name": "碧城",
@@ -739,7 +874,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#153b86",
+    "asBackground": true
   },
   {
     "name": "绀宇",
@@ -753,7 +891,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#001277",
+    "asBackground": true
   },
   {
     "name": "佛头青",
@@ -767,7 +908,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#19325f",
+    "asBackground": true
   },
   {
     "name": "蓝箔05",
@@ -782,7 +926,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "赪霞",
@@ -796,7 +943,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 2.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#f18f60",
+    "asBackground": false
   },
   {
     "name": "黄丹",
@@ -810,7 +960,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#ea5514",
+    "asBackground": false
   },
   {
     "name": "赩炽",
@@ -824,7 +977,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#cb523e",
+    "asBackground": true
   },
   {
     "name": "鞓红",
@@ -838,7 +994,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#b04552",
+    "asBackground": true
   },
   {
     "name": "洛神珠",
@@ -852,7 +1011,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#d23918",
+    "asBackground": true
   },
   {
     "name": "丹雘",
@@ -866,7 +1028,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#c8161d",
+    "asBackground": true
   },
   {
     "name": "朱樱",
@@ -880,7 +1045,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#8f1d22",
+    "asBackground": true
   },
   {
     "name": "星云3",
@@ -895,7 +1063,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云5",
@@ -910,7 +1081,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云test",
@@ -925,7 +1099,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云4",
@@ -939,7 +1116,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": true
+    "removed": true,
+    "useImage": false,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云",
@@ -953,7 +1133,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": true
+    "removed": true,
+    "useImage": false,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "昌荣",
@@ -967,7 +1150,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#dcc7e1",
+    "asBackground": false
   },
   {
     "name": "暮山紫",
@@ -981,7 +1167,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#a4abd6",
+    "asBackground": false
   },
   {
     "name": "紫薄汗",
@@ -995,7 +1184,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#bba1cb",
+    "asBackground": false
   },
   {
     "name": "苏梅",
@@ -1009,7 +1201,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#dd7694",
+    "asBackground": true
   },
   {
     "name": "紫蒲",
@@ -1023,7 +1218,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#a6559d",
+    "asBackground": true
   },
   {
     "name": "紫苑",
@@ -1037,7 +1235,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#8568ab",
+    "asBackground": true
   },
   {
     "name": "红踯躅",
@@ -1051,7 +1252,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#b83570",
+    "asBackground": true
   },
   {
     "name": "优昙瑞",
@@ -1065,7 +1269,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#615ea8",
+    "asBackground": true
   },
   {
     "name": "凝紫",
@@ -1079,7 +1286,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#594494",
+    "asBackground": true
   },
   {
     "name": "延维",
@@ -1093,7 +1303,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#5f4181",
+    "asBackground": true
   },
   {
     "name": "齐紫",
@@ -1107,7 +1320,10 @@
     "bright": "黑",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#6c216d",
+    "asBackground": true
   },
   {
     "name": "赪紫",
@@ -1121,7 +1337,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#8b084b",
+    "asBackground": true
   },
   {
     "name": "芥拾紫",
@@ -1135,7 +1354,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#6a1a32",
+    "asBackground": true
   },
   {
     "name": "图1",
@@ -1150,7 +1372,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云2",
@@ -1165,7 +1390,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云6",
@@ -1180,7 +1408,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云7",
@@ -1195,7 +1426,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云8",
@@ -1210,7 +1444,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "星云9",
@@ -1225,7 +1462,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": true
   },
   {
     "name": "蜜合",
@@ -1239,7 +1479,10 @@
     "bright": "浅",
     "posSize": 0.3,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#ffe4b7",
+    "asBackground": false
   },
   {
     "name": "松花",
@@ -1253,7 +1496,10 @@
     "bright": "浅",
     "posSize": 0.3,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#ffee6f",
+    "asBackground": false
   },
   {
     "name": "黄栗留",
@@ -1267,7 +1513,10 @@
     "bright": "浅",
     "posSize": 0.4,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#fedc5e",
+    "asBackground": false
   },
   {
     "name": "嫩鹅黄",
@@ -1281,7 +1530,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#f2c867",
+    "asBackground": false
   },
   {
     "name": "栀子",
@@ -1295,7 +1547,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#fac03d",
+    "asBackground": false
   },
   {
     "name": "黄河琉璃",
@@ -1309,7 +1564,10 @@
     "bright": "浅",
     "posSize": 0.7,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#e5a84b",
+    "asBackground": false
   },
   {
     "name": "鞠衣",
@@ -1323,7 +1581,10 @@
     "bright": "浅",
     "posSize": 0.6,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#d3a237",
+    "asBackground": true
   },
   {
     "name": "密陀僧",
@@ -1337,7 +1598,10 @@
     "bright": "浅",
     "posSize": 0.7,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#b3934b",
+    "asBackground": false
   },
   {
     "name": "大赤",
@@ -1351,7 +1615,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#aa9649",
+    "asBackground": true
   },
   {
     "name": "柘黄",
@@ -1365,7 +1632,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#c67915",
+    "asBackground": false
   },
   {
     "name": "珠子褐",
@@ -1379,7 +1649,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 2.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#c39f9e",
+    "asBackground": false
   },
   {
     "name": "明茶",
@@ -1393,7 +1666,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#af9464",
+    "asBackground": true
   },
   {
     "name": "露褐",
@@ -1407,7 +1683,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#b97753",
+    "asBackground": true
   },
   {
     "name": "荆褐",
@@ -1421,7 +1700,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#906c4a",
+    "asBackground": true
   },
   {
     "name": "栗壳",
@@ -1435,7 +1717,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#775039",
+    "asBackground": true
   },
   {
     "name": "佛赤",
@@ -1449,7 +1734,10 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#8f3d2c",
+    "asBackground": true
   },
   {
     "name": "目童子",
@@ -1463,7 +1751,10 @@
     "bright": "黑",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#5b3222",
+    "asBackground": true
   },
   {
     "name": "弗肯红",
@@ -1477,7 +1768,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#ecd9c7",
+    "asBackground": false
   },
   {
     "name": "十样锦",
@@ -1491,7 +1785,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#f8c6b5",
+    "asBackground": false
   },
   {
     "name": "扶光",
@@ -1505,7 +1802,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#f0c2a2",
+    "asBackground": false
   },
   {
     "name": "桃夭",
@@ -1519,7 +1819,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#f6bec8",
+    "asBackground": false
   },
   {
     "name": "檀唇",
@@ -1533,7 +1836,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#da9e8c",
+    "asBackground": true
   },
   {
     "name": "缟羽",
@@ -1547,7 +1853,28 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#efefef",
+    "asBackground": false
+  },
+  {
+    "name": "test",
+    "red": 0,
+    "blue": 0,
+    "green": 0,
+    "file": "uploads-9e5b4cf5-b32d-4db6-976a-a50dcaaf8c5a.png",
+    "alpha": 0,
+    "element": "间",
+    "desc": "粉",
+    "stable": false,
+    "bright": "浅",
+    "posSize": 1.0,
+    "pospre": 0.0,
+    "removed": true,
+    "useImage": true,
+    "colorHex": "#000000",
+    "asBackground": false
   },
   {
     "name": "肉红",
@@ -1561,7 +1888,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#ddc5b8",
+    "asBackground": false
   },
   {
     "name": "藕丝秋半",
@@ -1575,7 +1905,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#d3cbc5",
+    "asBackground": false
   },
   {
     "name": "苍烟落照",
@@ -1589,7 +1922,10 @@
     "bright": "浅",
     "posSize": 0.5,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#c8b5b3",
+    "asBackground": false
   },
   {
     "name": "杨妃",
@@ -1603,7 +1939,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#c891a0",
+    "asBackground": true
   },
   {
     "name": "绍衣",
@@ -1617,7 +1956,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#a8a19c",
+    "asBackground": true
   },
   {
     "name": "测试",
@@ -1631,7 +1973,10 @@
     "bright": "浅",
     "posSize": 1.0,
     "pospre": 0.0,
-    "removed": true
+    "removed": true,
+    "useImage": false,
+    "colorHex": "#646464",
+    "asBackground": false
   },
   {
     "name": "豆沙灰",
@@ -1645,6 +1990,9 @@
     "bright": "深",
     "posSize": 1.0,
     "pospre": 2.0,
-    "removed": false
+    "removed": false,
+    "useImage": false,
+    "colorHex": "#8d5451",
+    "asBackground": true
   }
 ]
