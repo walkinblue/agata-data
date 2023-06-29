@@ -1,0 +1,236 @@
+[
+  {
+    "id": "2f0aba7b-7700-4c2a-b405-b9ca54674f6c",
+    "name": "金刚萨埵",
+    "letters": [
+      {
+        "charr": "<",
+        "font": "ESAMA",
+        "index": 60,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "T",
+        "font": "ESAMA",
+        "index": 84,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "ý",
+        "font": "ESAMA",
+        "index": 253,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "c",
+        "font": "ESAMA",
+        "index": 99,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "º",
+        "font": "ESAMA",
+        "index": 186,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": ">",
+        "font": "ESAMA",
+        "index": 62,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": ",",
+        "font": "ESAMA",
+        "index": 44,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      }
+    ],
+    "arrange": "vertical",
+    "backgroundColor": "rgb(255,255,255)",
+    "textColor": "rgb(0,0,0)",
+    "defaultFontSize": 400,
+    "top": 0,
+    "left": 0,
+    "spacing": 0
+  },
+  {
+    "id": "e51b4c86-cc31-4c34-846a-b35e1a72efbf",
+    "name": "六字真言",
+    "letters": [
+      {
+        "charr": "<",
+        "font": "ESAMA",
+        "index": 60,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "U",
+        "font": "ESAMA",
+        "index": 85,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "j",
+        "font": "ESAMA",
+        "index": 106,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "É",
+        "font": "ESAMA",
+        "index": 201,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "R",
+        "font": "ESAMA",
+        "index": 82,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "+",
+        "font": "ESAMA",
+        "index": 43,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "ä",
+        "font": "ESAMA",
+        "index": 228,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": "-",
+        "font": "ESAMA",
+        "index": 45,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": ">",
+        "font": "ESAMA",
+        "index": 62,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      },
+      {
+        "charr": ",",
+        "font": "ESAMA",
+        "index": 44,
+        "top": 0,
+        "left": 0,
+        "fontSize": -1
+      }
+    ],
+    "arrange": "vertical",
+    "backgroundColor": "rgb(255,255,255)",
+    "textColor": "rgb(0,0,0)",
+    "defaultFontSize": 400,
+    "top": 0,
+    "left": 0,
+    "spacing": 0
+  }
+]
